@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;    
 }
+/* navbar */
+#topMenu{
+    height: 80px;
+    width: 100%;
+    background: navy;
+}
+.NavBar{
+    
+}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -98,3 +108,6 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+
