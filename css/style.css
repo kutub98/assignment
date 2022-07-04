@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  padding: 0;    
+  padding: 0;
   padding: 0;
 }
 /* navbar */
@@ -16,7 +16,6 @@
   width: 100%;
   background: navy;
 }
-
 
 /* Slideshow container */
 .slideshow-container {
